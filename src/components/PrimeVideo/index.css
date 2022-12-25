@@ -1,0 +1,18 @@
+/* Write your CSS here */
+.app-container {
+  background-color: #000;
+  min-height: 100vh;
+  font-family: 'Roboto';
+}
+.prime-video-img {
+  width: 100%;
+  min-height: 180px;
+  max-height: 350px;
+}
+.action-movies {
+  padding: 20px 80px;
+}
+.movies-heading {
+  color: #fff;
+  font-size: 22px;
+}
